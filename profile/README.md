@@ -2,6 +2,8 @@
 # Keshuo Motor
 
 ### Precision Stepper Motors, Geared Drives & Micro DC Motors
+<img width="1983" height="793" alt="keshuo-motor-profile-banner-micro-dc-stepper-motors" src="https://github.com/user-attachments/assets/47e763e3-ae33-4939-84ed-58233bf03b8e" />
+
 
 ## About Us
 
